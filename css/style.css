@@ -35,7 +35,7 @@
 }
 
 .mb-3{
-  color:  #b7c1c7;
+  color: rgb(191, 214, 243);
   align-items: center;
   padding: 8px 0;
 }
@@ -43,7 +43,7 @@
   font-size: 18px;
   display: inline-block;
   background: #202125bd;
-  color:  #b7c1c7;
+  color: rgb(191, 214, 243);
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -60,7 +60,7 @@
 
 #header .profile .social-links a:hover {
   background: #149ddd;
-  color: rgb(226, 218, 218);
+  color: rgb(191, 214, 243);
   text-decoration: none;
 }
 #main {
@@ -124,13 +124,8 @@
     font-size: 24px;
     transition: all 0.4s;
     outline: none !important;
-<<<<<<< Updated upstream
-    background-color: #c7b9b7;
+    background-color:rgb(191, 214, 243);
     color: #fff;
-=======
-    background-color: #b7c1c7;
-    color: rgb(77, 52, 52);
->>>>>>> Stashed changes
     width: 40px;
     height: 40px;
     display: inline-flex;
@@ -186,7 +181,7 @@
     font-family: "Poppins", sans-serif;
   }
   #hero p span {
-    color: #b7c1c7;
+    color: rgb(191, 214, 243);
     padding-bottom: 4px;
     letter-spacing: 1px;
     border-bottom: 3px solid #149ddd;
@@ -379,7 +374,7 @@ section {
   }
   .contact .info i {
     font-size: 20px;
-    color:  #b7c1c7;
+    color: rgb(191, 214, 243);
     float: left;
     width: 44px;
     height: 44px;
@@ -602,7 +597,7 @@ section {
     border: #040b14 solid 1px;
   }
   #sub{
-  background-color:  #b7c1c7;
+  background-color: rgb(191, 214, 243);
   }
   button:hover {
     background: rgb(23, 26, 23);
