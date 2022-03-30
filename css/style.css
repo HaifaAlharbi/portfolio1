@@ -35,7 +35,7 @@
 }
 
 .mb-3{
-  color: rgb(235, 190, 190);
+  color:  #b7c1c7;
   align-items: center;
   padding: 8px 0;
 }
@@ -43,7 +43,7 @@
   font-size: 18px;
   display: inline-block;
   background: #202125bd;
-  color: rgb(223, 196, 196);
+  color:  #b7c1c7;
   line-height: 1;
   padding: 8px 0;
   margin-right: 4px;
@@ -124,8 +124,13 @@
     font-size: 24px;
     transition: all 0.4s;
     outline: none !important;
+<<<<<<< Updated upstream
     background-color: #c7b9b7;
     color: #fff;
+=======
+    background-color: #b7c1c7;
+    color: rgb(77, 52, 52);
+>>>>>>> Stashed changes
     width: 40px;
     height: 40px;
     display: inline-flex;
@@ -181,7 +186,7 @@
     font-family: "Poppins", sans-serif;
   }
   #hero p span {
-    color: #fff;
+    color: #b7c1c7;
     padding-bottom: 4px;
     letter-spacing: 1px;
     border-bottom: 3px solid #149ddd;
@@ -374,7 +379,7 @@ section {
   }
   .contact .info i {
     font-size: 20px;
-    color: #e7dbdf;
+    color:  #b7c1c7;
     float: left;
     width: 44px;
     height: 44px;
@@ -597,7 +602,7 @@ section {
     border: #040b14 solid 1px;
   }
   #sub{
-  background-color: #dbb1b1;
+  background-color:  #b7c1c7;
   }
   button:hover {
     background: rgb(23, 26, 23);
